@@ -8,3 +8,4 @@
 4) How does the number of projects correlate with time spent at the company, particularly for those who have left?
 5) Could compensation levels be influencing an employee’s decision to leave?
 *  These have been answered with the use of visualizations and various other statistical and mathematial methods
+*  A sample dataset of 10 employees has been added
